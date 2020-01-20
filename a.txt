@@ -521,9 +521,8 @@ DOX映画,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=e16878a022c216b179752
 DOX美剧,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=1c639fe68ed5de6804966813425bdccd
 骄阳剧场,http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNJDJC/1800/vCIBNJDJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
 亲子卡通,#genre#
-迪斯尼,P2p://190.2.146.92:18912/5c72485c0008852e1d522f7314a34325.ts
 迪斯尼,vjms://58.215.133.185:8500:3502/live/cid=361
-BabyFirst,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+迪斯尼(备),P2p://190.2.146.92:18912/5c72485c0008852e1d522f7314a34325.tsBabyFirst,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 靖洋卡通,http://61.58.60.230:9319/live/206.m3u8
 靖天卡通,http://61.58.60.230:9319/live/207.m3u8
 MOMO亲子台,P2p://190.2.146.92:18912/5c7248620002c4fd1d52456c75ed6b55.ts
