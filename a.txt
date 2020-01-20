@@ -144,7 +144,8 @@ CCTV 怀旧剧场,p2p://lino.homeunix.com:6007/59fd28b40000173b02b37a6e68ed171b.
 宁夏卫视,http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=017&Provider_id=&Pcontent_id=index.m3u8
 旅游卫视,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=014&Provider_id=&Pcontent_id=index.m3u8
 康巴卫视,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=017&Provider_id=&Pcontent_id=index.m3u8
-广东体育,p2p://lino.homeunix.com:6007/5acb5cb90007145f2b6ce964057a3e6f.ts
+广东体育,http://104.250.154.42:8080/ZZ_guangdongtiyu/ZZ_guangdongtiyu.m3u8
+广东体育(备),p2p://lino.homeunix.com:6007/5acb5cb90007145f2b6ce964057a3e6f.ts
 广东影视,p2p://lino.homeunix.com:6007/5a6c9475000ad86eb92bcb4778a21506.ts
 广东新闻台,p2p://lino.homeunix.com:6007/5acb5e97000832b02b7434e27e044cda.ts
 珠江電影,p2p://lino.homeunix.com:6007/5a6c94d5000dae17b92d43033f1e125d.ts
