@@ -1,4 +1,4 @@
-﻿台湾频道,#genre#
+﻿台湾频道_123456,#genre#
 AXN,http://pili-live-hdl.qhmywl.com/dsdtv/c762110b3eef8bcccce5863643dd66aa.flv
 BabyFirst,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 BBC,vjms://58.215.133.185:8500:3502/live/cid=418
