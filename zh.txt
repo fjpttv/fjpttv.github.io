@@ -3,7 +3,10 @@ CCTV 01,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228504/inde
 CCTV 02,https://116.77.72.195/streams/d/cctv2/playlist.m3u8#http://wxcnlive.videocc.net/vod1/cctv2169/01.m3u8?wsSecret=0f883c8649a6b883016f6408d7c80f9d&wsTime=1509347397#http://umslive.hebyun.com.cn/live/cctv2/1500k/tzwj_video.m3u8#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228482/index.m3u8?fmt=ts2hls
 CCTV 03,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228563/index.m3u8?fmt=ts2hls#https://116.77.72.195/streams/d/cctv3/playlist.m3u8#http://39.135.32.29:6610/000000001000/1000000001000011218/index.m3u8?i#http://newvideo.dangtutv.cn:8278/CCTVzongyi/playlist.m3u8
 CCTV 04,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228306/index.m3u8?fmt=ts2hls#http://cdn.5itv.tv/ZZ_cctv4/ZZ_cctv4.m3u8#http://umslive.hebyun.com.cn/live/cctv4/1500k/tzwj_video.m3u8#http://39.134.65.162/PLTV/88888888/224/3221225487/index.m3u8#http://117.169.120.140:8080/live/cctv-4/.m3u8#http://183.207.248.71/cntv/live1/cctv-4/cctv-4#http://183.207.249.11/PLTV/3/224/3221225534/index.m3u8#http://111.63.117.13:6060/030000001000/CCTV-4/CCTV-4.m3u8
+CCTV 04欧洲,http://cctvalih5ca.v.myalicdn.com/live/cctveurope_2/index.m3u8
+CCTV 04美洲,http://cctvalih5ca.v.myalicdn.com/live/cctvamerica_2/index.m3u8
 CCTV 05,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228570/index.m3u8?fmt=ts2hls#https://116.77.72.195/streams/d/cctv5/playlist.m3u8#http://cdn.5itv.tv/ZZ_cctv5/ZZ_cctv5.m3u8#http://223.110.241.204:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/
+CCTV 05+,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228372/index.m3u8?fmt=ts2hls#http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/yst.m3u8
 CCTV 06,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228566/index.m3u8?fmt=ts2hls#https://116.77.72.195/streams/d/cctv6/playlist.m3u8#http://cdn.5itv.tv/ZZ_cctv6/ZZ_cctv6.m3u8
 CCTV 07,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228507/index.m3u8?fmt=ts2hls#https://116.77.72.195/streams/d/cctv7/playlist.m3u8#http://cdn.5itv.tv/ZZ_cctv7/ZZ_cctv7.m3u8
 CCTV 08,https://116.77.72.195/streams/d/cctv8/playlist.m3u8#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228569/index.m3u8?fmt=ts2hls#http://221.6.85.150:9000/live/cctv8_800/cctv8_800.m3u8
@@ -14,9 +17,38 @@ CCTV 12,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228485/inde
 CCTV 13,http://stream4.jlntv.cn/cctv13/sd/live.m3u8#http://liveali.ifeng.com/live/CCTV.m3u8#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228266/index.m3u8?fmt=ts2hls#http://117.169.120.140:8080/live/cctv-13/.m3u8
 CCTV 14,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228488/index.m3u8?fmt=ts2hls#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225678/index.m3u8#http://111.40.205.87/PLTV/88888888/224/3221225732/index.m3u8
 CCTV 15,http://cdn.5itv.tv/ZZ_cctv15/ZZ_cctv15.m3u8#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228281/index.m3u8?fmt=ts2hls#http://221.6.85.150:9000/live/cctv15_800/cctv15_800.m3u8#http://223.82.250.72/live/cctv-15/1.m3u8
+CCTV-16,http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 CCTV 17,http://111.40.205.70/PLTV/88888888/224/3221225765/index.m3u8#http://stream.cdjsxy.cn/lypd/sd/live.m3u8#http://220.158.149.14:9999/live/TV00000000000000000008@HHZT;LIVE?DSJTV.m3u8
-CCTV 体育赛事,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228372/index.m3u8?fmt=ts2hls#http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/yst.m3u8
-CETV 教育一台,http://stream.cdjsxy.cn/zgjy/sd/live.m3u8#http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227355/index.m3u8
+CCTV-娱乐,http://61.58.60.230:9319/live/224.m3u8
+CCTV-戏曲,msc://CCCTVOM#http://61.58.60.230:9319/live/223.m3u8
+CCTV-老故事,http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
+CCTV中学生,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000093
+CCTV女性时尚,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000091
+CCTV新科动漫,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000094
+CCTV发现之旅,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000099
+CCTV发现之旅,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000120.m3u8,cntv-cctvfxzl
+CCTV怀旧剧场,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000089.m3u8,cntv-hjjc
+CCTV怀旧剧场,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000048
+CCTV风云音乐,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000090.m3u8,cntv-fyyy
+CCTV地理世界,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000092.m3u8,cntv-shijiedili
+CCTV兵器科技,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000093.m3u8,cntv-guofang
+CCTV风云足球,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000052
+CCTV风云剧场,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000094.m3u8,cntv-fyjc
+CCTV第一剧场,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000049
+CCTV高尔夫网球,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000088.m3u8,cntv-cctvgaowang
+CCTV央视文化精品,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000046
+CGTN,https://live.cgtn.com/1000/prog_index.m3u8
+CGTN法语,https://live.cgtn.com/1000f/prog_index.m3u8
+CGTN西语,https://live.cgtn.com/1000e/prog_index.m3u8
+CGTN阿语,https://live.cgtn.com/1000a/prog_index.m3u8
+CGTN俄语,https://live.cgtn.com/1000r/prog_index.m3u8
+CGTN探索,msc://CCGTNDM#http://61.58.60.230:9319/live/221.m3u8
+CGTN英语,http://61.58.60.230:9319/live/222.m3u8
+CGTN纪录片,http://220.158.149.14:9999/live/TV00000000000000000018@HHZT;LIVE
+CETV教育1,http://cctvalih5ca.v.myalicdn.com/cstv/cetv1_2/index.m3u8
+CETV教育2,http://cctvalih5ca.v.myalicdn.com/cstv/cetv2_2/index.m3u8
+CETV教育3,http://cctvalih5ca.v.myalicdn.com/cstv/cetv3_2/index.m3u8
+CETV教育4,http://cctvalih5ca.v.myalicdn.com/cstv/cetv4_2/index.m3u8
 CGTN 国际频道,http://live.cgtn.com/1000/prog_index.m3u8
 CGTN 记录频道,http://live.cgtn.com/1000d/prog_index.m3u8
 CGTN 法语频道,http://live.cgtn.com/1000f/prog_index.m3u8
