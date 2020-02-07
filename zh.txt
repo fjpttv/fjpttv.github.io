@@ -32,6 +32,7 @@ CHC 家庭影院,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225927/index
 湖南卫视HD,http://117.169.124.43:6610/ysten-businessmobile/live/hdhunanstv/index.m3u8
 深圳卫视HD,http://117.169.124.43:6610/ysten-businessmobile/live/hdshenzhenstv/index.m3u8
 东方卫视HD,http://117.169.124.43:6610/ysten-businessmobile/live/hddongfangstv/index.m3u8
+南方卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=9&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 北京卫视HD,http://117.169.124.43:6610/ysten-businessmobile/live/hdbeijingstv/index.m3u8
 广东卫视HD,http://117.169.124.43:6610/ysten-businessmobile/live/hdguangdongstv/index.m3u8
 天津卫视HD,http://117.169.124.43:6610/ysten-businessmobile/live/hdtianjinstv/index.m3u8
@@ -116,6 +117,8 @@ CETV 1,http://117.169.124.43:6610/ysten-businessmobile/live/jiaoyutv/2.m3u8
 尤溪新闻综合,https://38269.hlsplay.aodianyun.com/tv_radio_38269/tv_channel_765.m3u8
 尤溪城市生活,https://38269.hlsplay.aodianyun.com/tv_radio_38269/tv_channel_766.m3u8
 宁化电视1,http://fjnh.chinashadt.com:2036/live/stream:nh1.stream/playlist.m3u8
+新视觉台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=75&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+每日影院,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=71&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 地方频道,#genre#
 福建 Ⅰ 平潭新闻综合台,http://222.186.61.82/tv_radio_31191/tv_channel_907__redirect__31191.m3u8
 福建 Ⅰ 泉州综合台,http://live.qztvxwgj.com/live/news.m3u8
@@ -336,9 +339,11 @@ TVBS新闻台(备),rtmp://59.124.75.137/sat/tv551?dsjtv.m3u8
 好莱坞电影台(备),http://cdn.5itv.tv/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 龙翔时代电影,http://cdn.5itv.tv/ZZ_shidai/ZZ_shidai.m3u8
 龙翔时代电影(备),http://192.200.120.82:8080/ZZ_shidai/ZZ_shidai.m3u8
-HBO亚洲频道,http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
+HBO电影,http://hls.ws.anyrtc.io/live/c3f9594ce29aedabdc00e3cf15e605f5.flv
+HBO电影(备),http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 天映HD,p2p://lino.homeunix.com:6007/5b2f1ee9000d3e3d109cc71f4b240eb3.ts
-天映经典,p2p://lino.homeunix.com:6007/5b2e01c400098d0f0c42edad22c37385.ts
+天映经典,http://flv.live.xylive.tv/live/0050.flv
+天映经典(备),p2p://lino.homeunix.com:6007/5b2e01c400098d0f0c42edad22c37385.ts
 全佳,p2p://lino.homeunix.com:6007/5b2c7b9d000cafb7064ee62073b5429d.ts
 喜悦,p2p://lino.homeunix.com:6007/5b2c88690001d3520680e0317d774511.ts
 华丽台,p2p://lino.homeunix.com:6007/5b2f267700061e0f10ba47fb489f5964.ts
@@ -479,15 +484,16 @@ SKY NEWS HD,p2p://lino.homeunix.com:6007/59fd22c0000ee81c029c3d17391911a6.ts
 博斯无限,p2p://lino.homeunix.com:6007/59fd149100031ddf0264d2721a4e5126.ts
 八大娱乐台 HD,p2p://lino.homeunix.com:6007/59fd38fe000e2eeb02f31f187a8b3f49.ts
 靖天卡通台 HD,p2p://lino.homeunix.com:6007/59fd38e0000de06a02f2a9c951a975a6.ts
-MTV 音乐台,p2p://lino.homeunix.com:6007/59fd38c4000c84ed02f23c1b626a19ac.ts
+MTV音乐台,p2p://lino.homeunix.com:6007/59fd38c4000c84ed02f23c1b626a19ac.ts
+MTV音乐台(备),http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=202&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 龙华偶像 HD,p2p://lino.homeunix.com:6007/59fd38a1000ca5a002f1b363682d5b70.ts
 龙华戏剧 HD,p2p://lino.homeunix.com:6007/59fd38840006b53d02f14094613f7615.ts
 博斯足球 HD,p2p://lino.homeunix.com:6007/59fd3861000ae97702f0b8f522337286.ts
 寰宇综合 HD,p2p://lino.homeunix.com:6007/59fd383a000db1c102f021590c272f6e.ts
-BabyFirst,p2p://lino.homeunix.com:6007/59fd381b000ea26202efa87f74c25153.ts
-爱尔达体育3,p2p://lino.homeunix.com:6007/5b1ea05d0009a88cd02e7355473b4230.ts
-爱尓达体育2,p2p://lino.homeunix.com:6007/59fd37f9000df20002ef2381617811bf.ts
 爱尔达体育1,p2p://lino.homeunix.com:6007/59fd07ba000a4d260232ac6f507c5a84.ts
+爱尓达体育2,p2p://lino.homeunix.com:6007/59fd37f9000df20002ef2381617811bf.ts
+爱尔达体育3,p2p://lino.homeunix.com:6007/5b1ea05d0009a88cd02e7355473b4230.ts
+BabyFirst,p2p://lino.homeunix.com:6007/59fd381b000ea26202efa87f74c25153.ts
 Boomerang,p2p://lino.homeunix.com:6007/59fd37c100015d9d02ee4584223001fe.ts
 MY KIDS,p2p://lino.homeunix.com:6007/59fd3515000d559a02e3d8b272784315.ts
 靖天戏剧台 HD,p2p://lino.homeunix.com:6007/59fd36f80009b75202eb367f603a273f.ts
@@ -697,10 +703,8 @@ MediaCorp Channel 5英语电视,https://dlau142f16b92.cloudfront.net/hls/ch5ctv/
 Running Man,http://aldirect.hls.huya.com/huyalive/29359996-2689613128-11551800423652261888-2847687548-10057-A-0-1.m3u8
 影剧频道,#genre#
 DC出品,http://aldirect.hls.huya.com/huyalive/1448738174-1448738174-6222283077796757504-2847699112-10057-A-0-1.m3u8
-七龙珠,http://aldirect.hls.huya.com/huyalive/29169025-2686220712-11537230107877834752-3048959618-10057-A-0-1.m3u8
 亮剑,https://aldirect.hls.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1_1200.m3u8
-伪装者,http://aldirect.hls.huya.com/huyalive/30765679-2554414866-10971128309886222336-3049003164-10057-A-0-1.m3u8
-倚天屠龙记苏有朋版,http://aldirect.hls.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_1200.m3u8
+亮剑(备),https://js.hls.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1_2500.m3u8伪装者,http://aldirect.hls.huya.com/huyalive/30765679-2554414866-10971128309886222336-3049003164-10057-A-0-1.m3u8
 军事视频,http://aldirect.hls.huya.com/huyalive/1420406442-1420406442-6100599215417720832-4563964964-10057-A-0-1.m3u8
 刘德华,http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1.m3u8
 动画电影,https://aldirect.hls.huya.com/huyalive/1448731701-1448731701-6222255276473450496-2789274560-10057-A-0-1.m3u8
@@ -714,10 +718,17 @@ DC出品,http://aldirect.hls.huya.com/huyalive/1448738174-1448738174-62222830777
 奋斗,http://aldirect.hls.huya.com/huyalive/29106097-2747014526-11798337550806941696-3048991670-10057-A-0-1.m3u8
 好莱坞大片,https://aldirect.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-0-1.m3u8
 家有儿女,http://aldirect.hls.huya.com/huyalive/29169025-2686221252-11537232427160174592-2847687508-10057-A-0-1.m3u8
+西游记,http://aldirect.hls.huya.com/backsrc/29141112-2689673336-11552059015043219456-3048991588-10057-A-0-1_2000.m3u8
+鹿鼎记,https://aldirect.hls.huya.com/huyalive/94525224-2701055008-11600942924057018368-2847687618-10057-A-0-1_2000.m3u8
+宝莲灯,https://aldirect.hls.huya.com/huyalive/30765679-2525901744-10848665383389364224-2847699200-10057-A-0-1_2000.m3u8
 寻秦记,http://aldirect.hls.huya.com/huyalive/28466698-2689658976-11551997339312848896-2789274534-10057-A-0-1.m3u8
-封神榜陈浩民版,http://aldirect.hls.huya.com/huyalive/30765679-2523427569-10838038882679783424-2789253886-10057-A-0-1.m3u8
-射雕英雄传（胡歌）,http://aldirect.hls.huya.com/huyalive/29106097-2689284984-11550391055903883264-2847699150-10057-A-0-1.m3u8
-少帅（文章）,http://aldirect.hls.huya.com/huyalive/29106097-2689283558-11550384931280519168-2789274528-10057-A-1525418694-1.m3u8
+封神榜,http://aldirect.hls.huya.com/huyalive/30765679-2523427569-10838038882679783424-2789253886-10057-A-0-1.m3u8
+神雕侠侣,https://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_2000.m3u8
+笑傲江湖,https://aldirect.hls.huya.com/huyalive/29359996-2689640740-11551919016289239040-2847699140-10057-A-0-1_2000.m3u8
+倚天屠龙记,https://aldirect.hls.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_2000.m3u8
+隋唐英雄传,https://aldirect.hls.huya.com/huyalive/29359996-2689637532-11551905238034153472-2847687564-10057-A-0-1_2000.m3u8
+射雕英雄传,http://aldirect.hls.huya.com/huyalive/29106097-2689284984-11550391055903883264-2847699150-10057-A-0-1.m3u8
+少帅,http://aldirect.hls.huya.com/huyalive/29106097-2689283558-11550384931280519168-2789274528-10057-A-1525418694-1.m3u8
 少年包青天,http://aldirect.hls.huya.com/huyalive/30765679-2534694464-10886429828232249344-2789253856-10057-A-0-1.m3u8
 屌丝男士,http://aldirect.hls.huya.com/huyalive/29106097-2689285720-11550394216999813120-2789274540-10057-A-0-1.m3u8
 康熙微服私访记,http://aldirect.hls.huya.com/huyalive/29169025-2686221704-11537234368485392384-2789274536-10057-A-0-1.m3u8
@@ -725,7 +736,6 @@ DC出品,http://aldirect.hls.huya.com/huyalive/1448738174-1448738174-62222830777
 斗鱼车评,http://tx2play1.douyucdn.cn/live/321987r8e6tCsPR_4000.xs?uuid=
 新三国,http://aldirect.hls.huya.com/huyalive/30765679-2523417353-10837995005293887488-2847699118-10057-A-0-1.m3u8
 新水浒传,http://aldirect.hls.huya.com/huyalive/30765679-2523417567-10837995924416888832-2789253832-10057-A-0-1_1200.m3u8
-易中天品三国,http://aldirect.hls.huya.com/huyalive/28466698-2689661800-11552009468300492800-3048991590-10057-A-0-1.m3u8
 成龙,http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
 周润发,http://tx.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1.m3u8
 星爷,http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
@@ -738,20 +748,20 @@ DC出品,http://aldirect.hls.huya.com/huyalive/1448738174-1448738174-62222830777
 法证先锋,http://aldirect.hls.huya.com/huyalive/29169025-2686220062-11537227316149092352-2777037828-10057-A-0-1.m3u8
 济公,https://aldirect.hls.huya.com/huyalive/29169025-2686221242-11537232384210501632-2847687560-10057-A-0-1_1200.m3u8
 漫威出品,http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
-潜伏（孙红雷）,http://aldirect.hls.huya.com/huyalive/29141112-2689670234-11552045692054667264-3048959590-10057-A-0-1.m3u8
+潜伏,http://aldirect.hls.huya.com/huyalive/29141112-2689670234-11552045692054667264-3048959590-10057-A-0-1.m3u8
 火蓝刀锋,http://aldirect.hls.huya.com/huyalive/94525224-2467341812-10597152390593380352-2777037926-10057-A-0-1.m3u8
 爱情公寓,http://aldirect.hls.huya.com/huyalive/30765679-2523417493-10837995606589308928-2777071594-10057-A-0-1.m3u8
 父母爱情,http://aldirect.hls.huya.com/huyalive/94525224-2583571852-11096356611206152192-2847687652-10057-A-0-1.m3u8
 牛叔解说电影,https://al.hls.huya.com/huyalive/94525224-2667571840-11457133812530544640-3527487402-10057-A-0-1_1200.m3u8
 猫和老鼠,https://aldirect.hls.huya.com/huyalive/94525224-2679664054-11509069476196777984-2847687532-10057-A-0-1_1200.m3u8
-琅琊榜2（黄晓明）,http://aldirect.hls.huya.com/huyalive/29359996-2689643094-11551929126642253824-2847687582-10057-A-1525505974-1.m3u8
+琅琊榜2,http://aldirect.hls.huya.com/huyalive/29359996-2689643094-11551929126642253824-2847687582-10057-A-1525505974-1.m3u8
 生活大爆炸,http://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1.m3u8
 电影一,http://aldirect.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_1200.m3u8?_alisec=c7b987d1ea926e9efcb0acc3e803d4d0
 电影二,http://aldirect.hls.huya.com/huyalive/29169025-2686220598-11537229618251563008-2847687556-10057-A-1524043048-1_1200.m3u8?_alisec=3f098f76ad7930ed35e4898ffb7a056e
 电影三（美）,http://aldirect.hls.huya.com/huyalive/30765679-2591336344-11129704850416205824-3048991622-10057-A-0-1.m3u8?_alisec=967e9a5d0891cdb64bb15078945749ea
 相声小品,http://aldirect.hls.huya.com/huyalive/29106097-2689281338-11550375396453122048-2777038134-10057-A-0-1.m3u8
 神探狄仁杰,http://aldirect.hls.huya.com/huyalive/28466698-2689651522-11551965324626624512-2847699166-10057-A-0-1.m3u8
-神话（胡歌）,http://aldirect.hls.huya.com/huyalive/29106097-2689447148-11551087544980471808-2789253872-10057-A-0-1.m3u8
+神话,http://aldirect.hls.huya.com/huyalive/29106097-2689447148-11551087544980471808-2789253872-10057-A-0-1.m3u8
 神雕侠侣,http://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1.m3u8
 科幻动作,http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1.m3u8
 经典电影,http://aldirect.hls.huya.com/huyalive/30765679-2479074344-10647543231832653824-3049003166-10057-A-0-1.m3u8
@@ -768,6 +778,61 @@ DC出品,http://aldirect.hls.huya.com/huyalive/1448738174-1448738174-62222830777
 陈翔六点半,http://aldirect.hls.huya.com/huyalive/94525224-2655537474-11405446604132450304-2704233350-10057-A-0-1.m3u8
 韩国犯罪动作,http://aldirect.hls.huya.com/huyalive/28466698-2689662310-11552011658733813760-3048959582-10057-A-1525512946-1.m3u8
 香港经典电影,http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+峨眉电影,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
+香港影视,http://117.157.224.17/dlhdl-cdn.zhanqi.tv/zqlive/293853_EJciJ.flv
+经典港片,http://ucloudcdnct.inter.iqiyi.com/tslive/c20_lb_jingdianguangpian_high_t10/c20_lb_jingdianguangpian_high_t10.m3u8?key=0e025578e7808b241f8db62be09dfda30&dis_k=2a0bbcf6df59228291da5e05edfa3c77&dis_t=1580973809&dis_dz=CT-FuJian_FuZhou&dis_st=26&pv=0.2&qd_src=ih5&qd_tm=1580972996946&qd_ip=61.51.56.150&qd_sc=b5b6d233f40864aed6c4b615aa306d37
+惊悚午夜场,http://ucloudcdnct.inter.iqiyi.com/tslive/c16_lb_jingnawuyechang_1080p_t10/c16_lb_jingnawuyechang_1080p_t10.m3u8?key=0e025578e7808b241233eb6c230322554&dis_k=dc9b716a6c534e20afb004b713a43a6b&dis_t=1580973800&dis_dz=CT-FuJian_FuZhou&dis_st=26&pv=0.2&qd_src=ih5&qd_tm=1580973012187&qd_ip=61.51.56.150&qd_sc=2e44d753bb018296da75328421809145
+经典老片,http://ucloudcdnct.inter.iqiyi.com/tslive/c18_lb_haolaiwudapian_high_t10/c18_lb_haolaiwudapian_high_t10.m3u8?pv=0.2&qd_src=ih5&qd_tm=1580972991860&qd_ip=61.51.56.150&qd_sc=49467cf0fe71ad4e030e63fa864bd9db
+电影大片,http://ucloudcdnct.inter.iqiyi.com/tslive/c18_lb_dianyingjingxuan_high_t10/c18_lb_dianyingjingxuan_high_t10.m3u8?key=0e025578e7808b24148cce69b50020c02&dis_k=cd8fc81fbeff9235c4210ee683aeda7d&dis_t=1580973736&dis_dz=CT-FuJian_FuZhou&dis_st=26&pv=0.2&qd_src=ih5&qd_tm=1580972793107&qd_ip=61.51.56.150&qd_sc=00f9e0ec4e3654bc89e49428eefb2478
+豆瓣高分,http://ucloudcdnct.inter.iqiyi.com/tslive/c18_lb_wuxingyingyuan_high_t10/c18_lb_wuxingyingyuan_high_t10.m3u8?pv=0.2&qd_src=ih5&qd_tm=1580973007104&qd_ip=61.51.56.150&qd_sc=6d7cda9ea45700d6bfa865e069a1065c
+票房收割机,http://ucloudcdnct.inter.iqiyi.com/tslive/c16_lb_heibangdianying_1080p_t10/c16_lb_heibangdianying_1080p_t10.m3u8?pv=0.2&qd_src=ih5&qd_tm=1580973002029&qd_ip=61.51.56.150&qd_sc=37dce5f701191c8e6858c3ff994e03de
+惊悚电影,http://tx.hls.huya.com/huyalive/29106097-2689451738-11551107258880360448-2789274592-10057-A-0-1.m3u8
+温情电影,http://ucloudcdnct.inter.iqiyi.com/tslive/c19_lb_chenglong_720p_t10/c19_lb_chenglong_720p_t10.m3u8?pv=0.2&qd_src=ih5&qd_tm=1580973256679&qd_ip=61.51.56.150&qd_sc=b94153b2fd0a033c47d7132ca211e086
+秋意浓影院,http://ucloudcdnct.inter.iqiyi.com/tslive/c20_lb_fengxiaogang_high_t10/c20_lb_fengxiaogang_high_t10.m3u8?pv=0.2&qd_src=ih5&qd_tm=1580973251512&qd_ip=61.51.56.150&qd_sc=a834fca3d40828734d2c8af971337d47
+动画电影,http://ucloudcdnct.inter.iqiyi.com/tslive/c16_lb_donghuadianying_1080p_t10/c16_lb_donghuadianying_1080p_t10.m3u8?pv=0.2&qd_src=ih5&qd_tm=1580973139411&qd_ip=61.51.56.150&qd_sc=b8fc9bcf3278c3237036a9be7edb99c5
+华语院线,http://ucloudcdnct.inter.iqiyi.com/tslive/c18_lb_huayuyuanxian_720p_t10/c18_lb_huayuyuanxian_720p_t10.m3u8?pv=0.2&qd_src=ih5&qd_tm=1580972614898&qd_ip=61.51.56.150&qd_sc=675793b1461656dd37fd9a5e6ee5352e
+日韩院线,http://ucloudcdnct.inter.iqiyi.com/tslive/c18_lb_rihanyuanxian_720p_t10/c18_lb_rihanyuanxian_720p_t10.m3u8?pv=0.2&qd_src=ih5&qd_tm=1580972788029&qd_ip=61.51.56.150&qd_sc=6df260fd3a9e5150cdf5dd0751a05025
+金庸电影,http://tx.hls.huya.com/huyalive/29359996-2689645314-11551938661469650944-2847687586-10057-A-0-1.m3u8
+电影轮播,http://aldirect.hls.huya.com/huyalive/29106097-2689444502-11551076180497006592-2789253868-10057-A-1525419311-1_1200.m3u8
+TVB神剧,http://hls-ott-zhibo.wasu.tv/live/202/index.m3u8
+CHC高清电影,http://60.255.149.208/tslive/c211_scc_20190618_ek4k254b_original_r10/c211_scc_20190618_ek4k254b_original_r10.m3u8
+CHC动作电影,http://60.255.149.208/tslive/c213_scc_20190618_wzkayvu1_original_r10/c213_scc_20190618_wzkayvu1_original_r10.m3u8
+CHC家庭影院,http://60.255.149.208/tslive/c212_scc_20190618_q0ktot1t_original_r10/c212_scc_20190618_q0ktot1t_original_r10.m3u8
+成龙电影,http://tx.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
+徐峥电影,http://tx.hls.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1.m3u8
+周星驰电影,http://tx.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
+周润发电影,http://tx.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1.m3u8
+刘德华电影,http://tx.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1.m3u8
+李连杰电影,http://tx.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
+洪金宝电影,http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1.m3u8
+林正英电影,http://tx.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1.m3u8
+甄子丹电影,http://tx.hls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1.m3u8
+斯坦森电影,http://tx.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
+香港电影,http://tx.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1.m3u8
+古惑仔电影,http://tx.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.m3u8
+赌神电影,http://tx.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1.m3u8
+漫威电影,http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
+女神港片,http://tx.hls.huya.com/huyalive/30765679-2484192476-10669525441389264896-2789274564-10057-A-0-1.m3u8
+科幻电影,http://tx.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1.m3u8
+丧尸电影,http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
+真实改编,http://tx.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8
+警匪电影,http://tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8
+王晶电影,http://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1_1200.m3u8
+科幻电影,http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
+高清电影1,http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+高清电影2,http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+高清电影3,http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+高清电影4,http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
+高清电影5,http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
+高清电影6,http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
+动作电影,http://baiducdnct.inter.iqiyi.com/tslive/c16_lb_dongzuodianying_1080p_t10/c16_lb_dongzuodianying_1080p_t10.m3u8
+爱玩具,http://117.148.187.49:80/wh7f454c46tw2353157700_-468925800/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230026/index.m3u8?icpid=88888888&from=35&rrsiplist=39.134.176.217&popid=35&prioritypopid=35&RTS=1580893915&hms_devid=1644&online=1580893915
+爱奇谈,http://117.148.187.43:80/wh7f454c46tw2386622597_-719826813/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230023/index.m3u8?icpid=88888888&from=35&rrsiplist=39.134.176.217&popid=35&prioritypopid=35&RTS=1580893948&hms_devid=1647&online=1580893948
+爱电竞,http://117.148.187.45:80/wh7f454c46tw2400769907_1516299015/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230029/index.m3u8?icpid=88888888&from=35&rrsiplist=39.134.176.217&popid=35&prioritypopid=35&RTS=1580893963&hms_devid=1643&online=1580893963
+爱赛车,http://117.148.187.15:80/wh7f454c46tw2428554328_-1297015812/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8?icpid=88888888&from=35&rrsiplist=39.134.176.217&popid=35&prioritypopid=35&RTS=1580893990&hms_devid=1639&online=1580893990
+小品轮播,http://aldirect.hls.huya.com/huyalive/29106097-2689281338-11550375396453122048-2777038134-10057-A-0-1.m3u8
+欢笑剧场,http://183.207.249.15/PLTV/2/224/3221226031/index.m3u8
+易中天品三国,http://aldirect.hls.huya.com/huyalive/28466698-2689661800-11552009468300492800-3048991590-10057-A-0-1.m3u8
 Newtv频道,#genre#
 Newtv超级体育,http://111.40.205.87/PLTV/88888888/224/3221225715/index.m3u8
 Newtv超级电影,http://111.40.205.87/PLTV/88888888/224/3221225717/index.m3u8
@@ -794,10 +859,19 @@ Newtv爱情喜剧,http://111.40.205.87/PLTV/88888888/224/3221225669/index.m3u8
 Newtv精品体育,http://111.40.205.87/PLTV/88888888/224/3221225674/index.m3u8
 Newtv精品大剧,http://111.40.205.87/PLTV/88888888/224/3221225670/index.m3u8
 Newtv精品记录,http://111.40.205.87/PLTV/88888888/224/3221225672/index.m3u8
+华数_BBC系列,http://hls-ott-zhibo.wasu.tv/live/394/index.m3u8
+华数_历史解密,http://hls-ott-zhibo.wasu.tv/live/369/index.m3u8
+华数_科教人文,http://hls-ott-zhibo.wasu.tv/live/391/index.m3u8
+华数_大国时代,http://hls-ott-zhibo.wasu.tv/live/390/index.m3u8
+华数_热血抗战,http://hls-ott-zhibo.wasu.tv/live/353/index.m3u8
+华数_公主城堡,http://hls-ott-zhibo.wasu.tv/live/328/index.m3u8
 黑莓电影,http://111.40.205.87/PLTV/88888888/224/3221225667/index.m3u8
 黑莓动画,http://111.40.205.87/PLTV/88888888/224/3221225662/index.m3u8
 黑莓电竞,http://111.40.205.87/PLTV/88888888/224/3221225675/index.m3u8
+茶频道,http://pctx.qing.mgtv.com/nn_live/nn_x64/cz04ODQwMWQwMDk5N2IzOGRjNzc2ZDI5NWZkMGU4MzgxMyZlcz0xNTgxMDA2NTMwJnV1aWQ9MjkwMmMwZmVkNTc5ODBmNzJlNTMzNmQ5NjMwMmVjODctY2E2ZGMxODEmdj0yJmFzPTAmY2RuZXhfaWQ9dHhfcGNfbGl2ZQ,,/CPDMPP360.flv
+旅游攻略,http://hlslive.video.iqiyi.com/tslive/c18_lb_lvyounew_720P_t10/c18_lb_lvyounew_720P_t10.m3u8?pv=0.2&qd_src=ih5&qd_tm=1580976424015&qd_ip=61.51.56.150&qd_sc=db8e6b645d39922f9ea5b8ac848eedf4
 动漫频道,#genre#
+七龙珠,http://aldirect.hls.huya.com/huyalive/29169025-2686220712-11537230107877834752-3048959618-10057-A-0-1.m3u8
 金鹰卡通,http://117.169.124.43:6610/ysten-businessmobile/live/jinyingkaton/2.m3u8
 优漫卡通,http://117.169.124.43:6610/ysten-businessmobile/live/youmankaton/2.m3u8
 卡酷少儿,http://117.169.124.43:6610/ysten-businessmobile/live/kakukaton/2.m3u8
