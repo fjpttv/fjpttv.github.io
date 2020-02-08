@@ -149,9 +149,7 @@ HBO强档(备),http://pili-live-hdl.qhmywl.com/dsdtv/c971b59822c6a91fab4bad8ca9b
 福建 Ⅰ 福建综合台,http://player.ioioz.com/18/tv.php?tv=fjtv&id=fjzh
 福建 Ⅰ 乡村公共台,http://player.ioioz.com/18/tv.php?tv=fjtv&id=fjgg#rtsp://183.252.176.54:554/PLTV/88888888/224/3221226113/10000100000000060000000002358064_0.smil
 福建 Ⅰ 福建旅游台,http://player.ioioz.com/18/tv.php?tv=fjtv&id=fjds#rtsp://183.252.176.54:554/PLTV/88888888/224/3221226125/10000100000000060000000002358191_0.smil
-
 龙华动画,p2p://51.79.41.138:18912/5dc08f2300055ea101b813976e881334.ts
-
 港澳    ■,#genre#
 凤凰中文,http://liveali.ifeng.com/live/FHZW.m3u8#http://live.centerch.com/fhzw.m3u8#http://117.169.120.138:8080/live/fhchinese/index.m3u8#rtmp://58.200.131.2:1935/livetv/fhzw#http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE?DSJTV.m3u8
 凤凰咨询,http://liveali.ifeng.com/live/FHZX.m3u8#https://116.77.72.195/streams/d/fhzx/playlist.m3u8#http://117.169.120.138:8080/live/fhzixun/index.m3u8#rtmp://58.200.131.2:1935/livetv/fhzx#http://live.centerch.com/fhzx.m3u8#http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE?DSJTV.m3u8
