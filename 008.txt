@@ -1,0 +1,44 @@
+MTV,http://58.215.133.184:5021/live/52?pid=CRCYJVQKWYMT@5477XMO&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
+FOX电影,http://58.215.133.184:5021/live/94?pid=GNKJXIHRSEFU@5206IXV&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
+
+FOXSPORT-3,http://58.215.133.184:5021/live/95?pid=GNKJXIHRSEFU@5206IXV&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
+
+FOXNews,http://58.215.133.184:5021/live/97?pid=GNKJXIHRSEFU@5206IXV&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
+
+CNBC,http://58.215.133.184:5021/live/98?pid=GNKJXIHRSEFU@5206IXV&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
+TLC旅游生活,http://58.215.133.184:5021/live/103?pid=CRCYJVQKWYMT@5477XMO&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
+国家地理,http://58.215.133.184:5021/live/115?pid=CRCYJVQKWYMT@5477XMO&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
+纬来戏剧,http://58.215.133.184:5021/live/137?pid=JVRYNKYTBIGO@5609NBM&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
+HBO Family,http://58.215.133.184:5021/live/181?pid=CRCYJVQKWYMT@5477XMO&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
+
+三立都会,http://58.215.133.184:5021/live/226?pid=JVRYNKYTBIGO@5609NBM&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
+三立都会(备),http://58.215.133.184:5021/live/226?pid=WDMXHVBGPUGC@5072IPT&begblock=17838195&blocknum=0&needkeyframeinfo=1
+公视,http://58.215.133.184:5021/live/236?pid=PWKNNPGYQNPA@5190TBW&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
+HBO强档,http://58.215.133.184:5021/live/238?pid=CRCYJVQKWYMT@5477XMO&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
+HBO,http://58.215.133.184:5021/live/261?pid=KGAKKMFJLUHW@5985GEH&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
+国家地理野生,http://58.215.133.184:5021/live/263?pid=CRCYJVQKWYMT@5477XMO&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
+博斯高球1,http://58.215.133.184:5021/live/265?pid=CRCYJVQKWYMT@5477XMO&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
+Fox Golf,http://58.215.133.184:5021/live/265?pid=QGQXCVSPMBVK@5991DVS&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
+ELTA体育1台,http://58.215.133.184:5021/live/266?pid=CRCYJVQKWYMT@5477XMO&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
+
+Fashion,http://58.215.133.184:5021/live/339?pid=CRCYJVQKWYMT@5477XMO&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
+东森新闻,http://58.215.133.184:5021/live/340?pid=JVRYNKYTBIGO@5609NBM&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
+TVBS新闻,http://58.215.133.184:5021/live/348?pid=JVRYNKYTBIGO@5609NBM&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
+TVBS,http://58.215.133.184:5021/live/349?pid=JVRYNKYTBIGO@5609NBM&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
+三立新闻,http://58.215.133.184:5021/live/352?pid=JVRYNKYTBIGO@5609NBM&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
+迪斯尼,http://58.215.133.184:5021/live/361?pid=BLWWWTOYSMLT@5726IRI&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
+TV5MONDE,http://58.215.133.184:5021/live/396?pid=JVRYNKYTBIGO@5609NBM&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
+
+
+中天新闻,http://58.215.133.184:5021/live/407?pid=CRCYJVQKWYMT@5477XMO&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
+BBC,http://58.215.133.184:5021/live/418?pid=QGQXCVSPMBVK@5991DVS&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
+HBO原创电影,http://58.215.133.184:5021/live/434?pid=GNKJXIHRSEFU@5206IXV&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
+HBO Signature,http://58.215.133.184:5021/live/436?pid=GNKJXIHRSEFU@5206IXV&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
+年代much,http://58.215.133.184:5021/live/439?pid=CRCYJVQKWYMT@5477XMO&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
+探索亚洲,http://58.215.133.184:5021/live/440?pid=CRCYJVQKWYMT@5477XMO&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
+三八大第一,http://58.215.133.184:5021/live/441?pid=CRCYJVQKWYMT@5477XMO&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
+非凡新闻,http://58.215.133.184:5021/live/443?pid=BLWWWTOYSMLT@5726IRI&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
+民视,http://58.215.133.184:5021/live/450?pid=CRCYJVQKWYMT@5477XMO&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
+年代新闻,http://58.215.133.184:5021/live/455?pid=CRCYJVQKWYMT@5477XMO&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
+东森财经,http://58.215.133.184:5021/live/456?pid=CRCYJVQKWYMT@5477XMO&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
+探索科学,http://58.215.133.184:5021/live/457?pid=CRCYJVQKWYMT@5477XMO&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
