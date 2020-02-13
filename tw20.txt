@@ -5,7 +5,7 @@
 中视经典,p2p://lino.homeunix.com:6007/59fd09bd0002ab6d023a86337415321a.ts
 华视,http://192.200.120.82:8080/ZZ_huashi/ZZ_huashi.m3u8
 华视(备),p2p://lino.homeunix.com:6007/59fd068a0005f99e022e07d55c2f581d.ts
-华视(备1),p2p://lino.homeunix.com:6007/59fd23240005c9a4029dc1561885012e.ts
+华视教育体育文化,p2p://lino.homeunix.com:6007/59fd23240005c9a4029dc1561885012e.ts
 台视,p2p://lino.homeunix.com:6007/59fd099c00008ebf023a04ce64d57ff4.ts
 台视新闻台,p2p://lino.homeunix.com:6007/59fd299b00054a3002b7020e67d657e3.ts
 民视,p2p://lino.homeunix.com:6007/59fd230300046dc8029d402053e02fbf.ts
@@ -222,4 +222,3 @@ astro supersport1,p2p://lino.homeunix.com:6007/5b2c87d1000e0bc7067e919e4f474459.
 Astro supersport2,p2p://lino.homeunix.com:6007/5b2c87f6000f163b067f226448d8404a.ts
 Astro supersport3,p2p://lino.homeunix.com:6007/5b2c8817000c0d55067fa28124555619.ts
 Astro supersport4,p2p://lino.homeunix.com:6007/5b3df27000021a814a87f6e365805194.ts
-
